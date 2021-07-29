@@ -6,6 +6,8 @@ public class AppmumTest {
 	@Test
 	public void m1() {
  System.out.println("Appmum");
+ System.out.println("Appmum");
+ System.out.println("Appmum");
 }
 
 
